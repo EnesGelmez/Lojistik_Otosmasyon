@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojistikOtomasyon", "LojistikOtomasyon\LojistikOtomasyon.csproj", "{C6DA136C-E62D-4184-BA1A-DB1C28B447AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6DA136C-E62D-4184-BA1A-DB1C28B447AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6DA136C-E62D-4184-BA1A-DB1C28B447AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6DA136C-E62D-4184-BA1A-DB1C28B447AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6DA136C-E62D-4184-BA1A-DB1C28B447AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3D531CD-58CC-4A4B-A1AF-9EF148BA89E4}
+	EndGlobalSection
+EndGlobal
